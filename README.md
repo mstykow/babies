@@ -1,4 +1,4 @@
-# Analyzing Baby Names (and more) with Pandas
+# Analyzing Baby Names with Pandas
 
 In this exercise we analyze baby name popularity over the years using Python's popular pandas data science module. Open the Jupyter Notebook file ([Baby Names.ipynb](https://github.com/mstykow/babies/blob/master/Baby%20Names.ipynb)) to start the project.
 
